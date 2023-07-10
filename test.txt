@@ -1,2 +1,3 @@
 http://free1.pylexservers.xyz:27477/?ip=
 http://23.137.104.157:10040/?ip=
+http://node-01-fi.zerocost.host:2392/?ip=
